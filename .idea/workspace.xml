@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a952f911-ecec-4667-994a-4dd2880310a2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/utils/address_common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/commom.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Python3Repos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aff_service/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aff_service/aff/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aff_service/aff/data/blogpost.chlsj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aff_service/aff/testcase/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aff_service/bin/script/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aff_service/bin/script/logs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aff_service/bin/script/mkDir.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aff_service/bin/script/writeCase.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aff_service/bin/script/writeCaseYml.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aff_service/bin/unit/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aff_service/bin/unit/apiMethod.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aff_service/setupMain.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiscuzTest/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiscuzTest/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiscuzTest/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiscuzTest/RunTest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiscuzTest/common/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiscuzTest/common/pageObject/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiscuzTest/common/pageObject/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiscuzTest/common/pageObject/login_Page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiscuzTest/common/pageOperate/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiscuzTest/common/pageOperate/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiscuzTest/common/util/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiscuzTest/common/util/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiscuzTest/common/util/objectMap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiscuzTest/common/util/parseConfiguration.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiscuzTest/config/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiscuzTest/config/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiscuzTest/config/pageElementLocator.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiscuzTest/config/varConfig.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiscuzTest/log/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiscuzTest/log/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiscuzTest/testCase/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiscuzTest/testCase/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiscuzTest/testData/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiscuzTest/testData/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterfaceTest/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/pythoncode/calc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/data/attachments/783d343e1f6bff30.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/data/attachments/977ab59b5478da58.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/data/attachments/a87d49bfe48b1a97.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/data/attachments/aac6af6e18f0ca24.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/data/attachments/b8890192f9fad45e.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/data/attachments/fe7af549f53252c1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/data/behaviors.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/data/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/data/categories.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/data/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/data/packages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/data/suites.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/data/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/data/test-cases/3399902ce370ce73.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/data/test-cases/795a615cc36262af.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/data/test-cases/86a2867fb21b13ad.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/data/test-cases/a2911b32a2223a81.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/data/test-cases/ab92c6f2564557c2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/data/test-cases/b3afd71cddb6980b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/data/timeline.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/export/influxDbData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/export/mail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/export/prometheusData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/history/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/history/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/history/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/history/history.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/history/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/plugins/behaviors/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/plugins/packages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/plugins/screen-diff/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/plugins/screen-diff/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/widgets/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/widgets/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/widgets/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/widgets/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/widgets/duration.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/widgets/environment.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/widgets/executors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/widgets/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/widgets/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/widgets/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/widgets/severity.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/widgets/status-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/widgets/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/allure-report/widgets/summary.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/demo1/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/demo1/test_demo1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/03ee4a58-431b-4192-9c2c-05d675ebd093-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/04ca6337-d7a1-4c00-aa26-be91b1d954ff-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/0605f5a3-2f7e-48a7-a25a-cd1dca19788b-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/094cbdbb-910a-41b1-a942-499caabd2529-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/0c192591-1406-455a-bda4-9b78c0cc4461-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/0e5807f3-43a6-4f0c-802a-fdd93c6b43b1-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/0ecf8c0f-a26e-40e0-9346-0940dd5e50a5-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/13ed9849-b14f-473b-b3b5-adc0a9ebac54-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/1578327d-a975-4e85-96c7-02e7d8e2d9ef-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/167a555b-bf96-4a45-b30e-a3724aae8f7b-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/1a198825-3db7-46c7-a29f-a26ce8f75758-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/1a6385a2-d139-4307-934a-9628c63e560a-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/28348bed-84e6-42b5-9195-88a1bc4ba316-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/289fd476-6e44-4d4b-ad20-d1f3f947e5d9-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/299fcea4-6882-4a00-86cd-590cfa13d73a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/2c65e4ba-5a88-42d0-bb24-07cff6345371-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/2e57ad6a-f9e9-456b-a62b-8d78ab972229-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/303fd651-99d7-4f45-96ea-be54196e0f7f-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/341474d4-4cc8-4cbc-bc7c-a58185870e0e-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/37ce3f4c-9787-4555-ad52-179514a4de98-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/3878f94a-e835-47cf-9c3f-edb869f148dc-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/3958e9a3-dd31-49b9-a213-a4c73404c2f5-attachment.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/39bbe962-e4cc-4be2-aee1-a047a3f40fe4-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/3a9ae94b-ce8c-4686-b3ae-0f5dfa5a613e-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/3c1da163-6e06-41c4-a34c-f966d985d23b-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/3c4bb7a7-7ac8-4cbe-8490-fe99ddfd2f3a-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/3dc1582b-5c5e-4d3d-8d66-da1486cd8cef-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/3f839acc-fbea-477f-b4a3-42de64b57193-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/42f10ae3-b7b1-45f0-8340-5ef94d5bad79-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/430026e1-4b89-4a5c-afd1-29f16b184d4b-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/437ef19f-6720-4941-b937-092ffa3b1bb8-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/439c2cc2-890c-4399-b3a7-59fb06ac88f3-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/4468e7cf-56a0-4f79-9b3e-12691e74abe1-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/44e219b9-83f8-4546-943f-e1a040e56288-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/468f71e1-1204-4883-b38c-82b2b5cf7a63-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/4750bbf6-9b8f-43b2-8d7e-6bf5aa112390-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/4926d844-25d2-48bb-ab48-a3d0a583218b-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/49d0b635-7004-479e-a604-453d54aa0a30-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/4f389237-0386-4c24-9e2f-8d7898bc0801-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/4f6f57d0-a433-49d2-bdd8-0308db5cd51a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/514178a5-8f93-42d2-a5ed-535089e67858-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/53a484c7-f806-4f4f-96ce-b25c864ba56c-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/584a3c43-2e4c-40ae-b9e4-c3b7d05c6508-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/5a110951-8c28-4dc7-a10d-cd5730a0ed58-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/5c77433a-51bc-4db2-8e20-a6f486d11956-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/6780caa2-c4c5-4f54-8c61-0132ca03556d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/697095ab-c2e1-432f-a57e-0f0f4c7e521d-attachment.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/6a0bec58-6089-40b3-b5c4-2fbaa3c8c553-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/6fe532b9-c964-4c87-bda5-56eca095ebc8-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/749c5d7d-8069-43b3-9ca4-0edc717664e8-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/75d1f394-8a36-4197-9c03-7ee2eaf0793c-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/7b385e10-c490-4ef9-b496-ede9ebffb827-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/7cc4f9e2-8435-4e01-99b6-2c2a26423dc4-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/7d26b589-0ed2-4401-8e47-9e0dc8d7c537-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/7eb93a00-fbe1-4855-a473-ccf1f51c4ed4-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/80229e85-61b8-4b14-81de-ad7a2a316945-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/80339b82-4a2a-4207-a8e7-d5b82e56cd5b-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/813de9dd-21fc-404e-b233-639875a2f09b-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/8494c38b-c2e2-4bf4-aad5-cdb4f65e2879-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/875fd6c3-0741-403e-b89f-85f31dfabb15-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/880515e8-cdde-4d5b-82a8-8d391d6fdec1-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/8dceeecb-9916-4629-9767-ace21ee96489-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/8eff5377-a0ba-4759-8fe1-5ab8926b9ea8-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/9005d020-2e8d-4ec4-a2ab-ae297718fbc5-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/93d00b85-c64d-4fbc-89ed-bba88267a9a5-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/97b36da2-462f-4ffb-8f9a-93d2427433cd-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/9b67447d-675a-485a-b4e1-fbd5d22198c2-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/a07d2927-8e59-41bb-b119-6e25c5960f20-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/a2a3fe82-4b8d-4c6b-bbe2-0040e5211157-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/a4678b1b-1611-44f2-b27f-18688825a89b-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/a7aefeb4-872c-4b07-b12a-0c9155bc6a3e-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/adefbefe-74ab-4832-8903-9641ef938213-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/b052e079-7f45-43e2-b91c-c506b95a8c3c-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/b0f02a2b-1f7d-4a81-a4f4-073028fdf6cb-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/b1de8517-4716-47fc-a104-971f4fe8ad2e-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/b29a8c05-0501-4e6a-aed8-b7f84713437a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/bf567dbd-7d00-4d75-b0b6-a22adb184dc7-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/bfa0693c-01df-446e-8641-63b3878c6b95-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/c1e375e7-856e-46f6-bb49-5712cc87d924-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/c2d1b020-e78f-4970-84ee-a4e7323c87af-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/c4296c8e-f62c-4d4c-abad-5d9275411477-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/c42ccb25-0659-49c7-8b83-988ee91c0c32-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/c74a9816-791e-47ec-8e60-f38d9ce14f7f-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/cc7826f1-d45b-44e3-8038-8deaa988bcbc-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/cd385a5c-fd0e-45a8-b1ec-d732cd8d05fd-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/ce0218e3-796d-4b8f-a9be-04a3ee7fc6ea-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/d11f58f3-4c1d-4f2b-b112-eaa21ad8df8d-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/d3208852-30d4-44ff-95cd-e2a352507f9a-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/d690f18c-cd69-4023-a3ab-0c39e219f882-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/d72b1762-0f01-4f06-8885-56e0f78e7fde-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/d72c2e40-9343-424b-8a34-9f48dc60649b-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/d8d769d1-ccb2-43b5-9412-90bb19fa1aef-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/db61bd2b-b620-4de6-83a7-2f4ccba766af-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/ddad578c-8a7e-443f-a8e2-664e3fa825d5-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/e0a26e34-7569-4abc-b507-9f13e229fad9-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/e145bdbc-96c0-4c63-989a-3a33cf0a2a01-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/e32054ec-298d-4928-96b0-3e6edefdd2c5-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/e7ed0c9c-90e9-4b55-9dc5-ed6b64bdc547-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/ef93b44e-c9c0-43e4-a00d-786b331443f2-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/f430edfb-207f-4df6-bd21-724a41096c0f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/f5c337e6-5829-428b-9567-7a9457183e23-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/f7d291d5-4a21-406a-9bdb-38d1d2333e26-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/f9723bdc-26e4-412f-bcd0-93a5d44e342b-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/f9986364-9838-4edc-89bf-9759dba6d7c8-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/result/f9acf798-6435-47b2-b86c-a34cc9ee8c27-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaGouDemo/testing/test_calc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonTest/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonTest/REquests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonTest/REquests/dy1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonTest/REquests/request1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/VarConfig.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/VarConfig.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/WeworkElement.ini" beforeDir="false" afterPath="$PROJECT_DIR$/config/WeworkElement.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/test_address.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_case/test_address.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/test_tag.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_case/test_tag.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/common.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/tag_common.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WXLogin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api_pytest/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api_pytest/.idea/api_pytest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api_pytest/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api_pytest/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api_pytest/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api_pytest/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api_pytest/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api_pytest/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api_pytest/Pipfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api_pytest/Pipfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api_pytest/config/prod/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api_pytest/config/prod/config.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api_pytest/config/test/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api_pytest/config/test/config.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api_pytest/data/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api_pytest/data/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api_pytest/data/test_in_theaters.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api_pytest/pytest.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api_pytest/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api_pytest/tests/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api_pytest/tests/test_in_theaters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api_pytest/tests/test_time.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api_pytest/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api_pytest/utils/commlib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonapi/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonapi/Python自动化测试/2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonapi/TestData/229postTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonapi/driver/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonapi/driver/geckodriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonapi/python操作Excel/创建Excel文件并新建Sheet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonapi/python操作Excel/简单写入Sheet内容.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonapi/python操作Excel/读取Excel应用案例.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonapi/seleniumTest/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonapi/seleniumTest/postTest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonapi/seleniumTest/test01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonapi/testCase/229postTest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonapi/testCase/67getTest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonapi/testCase/67postTest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonapi/testCase/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonapi/yoyoTest/test1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonapi/yoyoTest/test2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_sample.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/FlaskWeb/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/FlaskWeb/app/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/FlaskWeb/hello.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/FlaskWeb/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/FlaskWeb/templates/user.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../基于python的接口自动化测试/demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../基于python的接口自动化测试/testdemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/.idea/Pythonrepos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/.idea/preferred-vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/HATP-api_test_saasV2-38e3163c237b55afa885a6a29fa38d3b932ddc69/.idea/HATP-api_test_saasV2-38e3163c237b55afa885a6a29fa38d3b932ddc69.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/HATP-api_test_saas_online-a692f34b720bc82a89a198ef3e53bebf7792d1d2/.idea/HATP-api_test_saas_online-a692f34b720bc82a89a198ef3e53bebf7792d1d2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/HATP-api_test_saas_online-a692f34b720bc82a89a198ef3e53bebf7792d1d2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/OSChina/.idea/OSChina.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/OSChina/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/OSChina/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/OSChina/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/OSChina/.idea/preferred-vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/OSChina/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/OSChina/Browser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/OSChina/Login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/OSChina/Login_url.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/OSChina/checkbox.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/OSChina/checkbox.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/OSChina/debug.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/OSChina/logout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/OSChina/myhome.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/OSChina/os_login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/OSChina/practice/Sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/OSChina/practice/bigdigits.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/Pyse_test/.idea/Pyse_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/Pyse_test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/Pyse_test/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/Pyse_test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/Pyse_test/baidu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/awesome-python-webapp/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/awesome-python-webapp/backup/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/awesome-python-webapp/conf/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/awesome-python-webapp/dist/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/awesome-python-webapp/www/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/awesome-python-webapp/www/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/awesome-python-webapp/www/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/awesome-python-webapp/www/orm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/awesome-python-webapp/www/static/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/awesome-python-webapp/www/static/css/addons/uikit.addons.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/awesome-python-webapp/www/static/css/addons/uikit.almost-flat.addons.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/awesome-python-webapp/www/static/css/addons/uikit.gradient.addons.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/awesome-python-webapp/www/static/css/awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/awesome-python-webapp/www/static/css/uikit.almost-flat.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/awesome-python-webapp/www/static/css/uikit.gradient.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/awesome-python-webapp/www/static/css/uikit.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/awesome-python-webapp/www/static/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/awesome-python-webapp/www/static/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/awesome-python-webapp/www/static/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/awesome-python-webapp/www/static/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/awesome-python-webapp/www/static/img/user.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/awesome-python-webapp/www/static/js/awesome.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/awesome-python-webapp/www/static/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/awesome-python-webapp/www/static/js/sha1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/awesome-python-webapp/www/static/js/sticky.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/awesome-python-webapp/www/static/js/uikit.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/awesome-python-webapp/www/static/js/vue.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/awesome-python-webapp/www/templates/__base__.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/awesome-python-webapp/www/templates/blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/awesome-python-webapp/www/templates/blogs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/awesome-python-webapp/www/templates/manage_blog_edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/awesome-python-webapp/www/templates/manage_blogs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/awesome-python-webapp/www/templates/manage_comments.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/awesome-python-webapp/www/templates/manage_users.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/awesome-python-webapp/www/templates/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/awesome-python-webapp/www/templates/signin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/maopao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/mysite/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/mysite/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/mysite/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/mysite/.idea/mysite.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/mysite/.idea/preferred-vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/mysite/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/mysite/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/mysite/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/mysite/mysite/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/mysite/mysite/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/mysite/mysite/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/mysite/mysite/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/mysite/polls/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/mysite/polls/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/mysite/polls/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/mysite/polls/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/mysite/polls/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/mysite/polls/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/mysite/polls/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pythonrepos/mysite/polls/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baidu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip-19.2.3.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip-19.2.3.dist-info/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip-19.2.3.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip-19.2.3.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip-19.2.3.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip-19.2.3.dist-info/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip-19.2.3.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/__main__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/build_env.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/build_env.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/cache.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/cache.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/cli/autocompletion.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/cli/autocompletion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/cli/base_command.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/cli/base_command.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/cli/cmdoptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/cli/cmdoptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/cli/main_parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/cli/main_parser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/cli/parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/cli/parser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/commands/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/commands/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/commands/check.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/commands/check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/commands/completion.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/commands/completion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/commands/configuration.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/commands/configuration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/commands/debug.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/commands/debug.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/commands/download.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/commands/download.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/commands/freeze.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/commands/freeze.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/commands/hash.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/commands/hash.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/commands/help.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/commands/help.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/commands/install.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/commands/install.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/commands/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/commands/list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/commands/search.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/commands/search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/commands/show.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/commands/show.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/commands/uninstall.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/commands/uninstall.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/commands/wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/commands/wheel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/configuration.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/configuration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/distributions/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/distributions/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/distributions/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/distributions/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/distributions/installed.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/distributions/installed.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/distributions/source.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/distributions/wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/distributions/wheel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/download.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/legacy_resolve.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/locations.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/locations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/models/candidate.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/models/candidate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/models/format_control.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/models/format_control.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/models/link.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/models/link.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/models/search_scope.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/models/search_scope.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/models/target_python.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/models/target_python.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/operations/check.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/operations/check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/operations/freeze.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/operations/freeze.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/operations/prepare.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/operations/prepare.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/pep425tags.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/pyproject.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/pyproject.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/req/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/req/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/req/constructors.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/req/constructors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/req/req_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/req/req_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/req/req_install.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/req/req_install.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/req/req_set.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/req/req_set.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/req/req_tracker.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/req/req_tracker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/req/req_uninstall.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/req/req_uninstall.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/utils/appdirs.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/utils/appdirs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/utils/compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/utils/compat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/utils/deprecation.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/utils/deprecation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/utils/encoding.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/utils/encoding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/utils/filesystem.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/utils/filesystem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/utils/glibc.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/utils/glibc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/utils/hashes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/utils/hashes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/utils/logging.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/utils/logging.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/utils/marker_files.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/utils/misc.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/utils/misc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/utils/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/utils/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/utils/outdated.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/utils/setuptools_build.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/utils/setuptools_build.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/utils/temp_dir.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/utils/temp_dir.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/utils/typing.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/utils/typing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/utils/ui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/utils/virtualenv.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/utils/virtualenv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/vcs/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/vcs/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/vcs/bazaar.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/vcs/bazaar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/vcs/git.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/vcs/git.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/vcs/mercurial.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/vcs/mercurial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/vcs/subversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/vcs/subversion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/vcs/versioncontrol.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/vcs/versioncontrol.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_internal/wheel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/appdirs.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/appdirs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/cachecontrol/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/cachecontrol/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/cachecontrol/adapter.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/cachecontrol/adapter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/cachecontrol/controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/cachecontrol/controller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/cachecontrol/serialize.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/cachecontrol/serialize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/cachecontrol/wrapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/cachecontrol/wrapper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/certifi/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/certifi/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/certifi/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/certifi/__main__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/certifi/cacert.pem" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/certifi/cacert.pem" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/certifi/core.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/certifi/core.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/colorama/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/colorama/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/distlib/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/distlib/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/distlib/_backport/sysconfig.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/distlib/_backport/sysconfig.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/distlib/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/distlib/database.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/distlib/locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/distlib/locators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/distlib/scripts.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/distlib/scripts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/distlib/t32.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/distlib/t32.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/distlib/t64.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/distlib/t64.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/distlib/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/distlib/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/distlib/w32.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/distlib/w32.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/distlib/w64.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/distlib/w64.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/distlib/wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/distlib/wheel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/distro.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/distro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/idna/core.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/idna/core.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/idna/idnadata.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/idna/idnadata.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/idna/package_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/idna/package_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/idna/uts46data.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/idna/uts46data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/ipaddress.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/ipaddress.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/lockfile/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/lockfile/linklockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/lockfile/mkdirlockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/lockfile/pidlockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/lockfile/sqlitelockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/lockfile/symlinklockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/msgpack/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/msgpack/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/msgpack/_version.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/msgpack/_version.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/msgpack/fallback.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/msgpack/fallback.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/packaging/__about__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/packaging/__about__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/packaging/_compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/packaging/_compat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/packaging/_structures.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/packaging/_structures.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/packaging/markers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/packaging/markers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/packaging/requirements.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/packaging/requirements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/packaging/specifiers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/packaging/specifiers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/packaging/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/packaging/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/packaging/version.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/packaging/version.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/pep517/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/pep517/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/pep517/_in_process.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/pep517/_in_process.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/pep517/build.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/pep517/build.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/pep517/check.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/pep517/check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/pep517/compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/pep517/compat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/pep517/envbuild.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/pep517/envbuild.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/pep517/wrappers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/pep517/wrappers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/pkg_resources/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/pkg_resources/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/pyparsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/pyparsing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/pytoml/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/pytoml/core.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/pytoml/parser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/pytoml/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/pytoml/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/pytoml/writer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/requests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/requests/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/requests/__version__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/requests/__version__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/requests/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/requests/api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/requests/auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/requests/auth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/requests/compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/requests/compat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/requests/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/requests/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/requests/sessions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/requests/sessions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/requests/status_codes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/requests/status_codes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/requests/structures.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/requests/structures.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/requests/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/requests/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/six.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/six.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/_collections.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/_collections.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/connection.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/connection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/connectionpool.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/connectionpool.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/contrib/_appengine_environ.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/contrib/_appengine_environ.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/contrib/_securetransport/bindings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/contrib/_securetransport/bindings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/contrib/_securetransport/low_level.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/contrib/_securetransport/low_level.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/contrib/appengine.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/contrib/appengine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/contrib/ntlmpool.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/contrib/ntlmpool.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/contrib/pyopenssl.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/contrib/pyopenssl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/contrib/securetransport.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/contrib/securetransport.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/contrib/socks.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/contrib/socks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/fields.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/fields.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/filepost.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/filepost.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/packages/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/packages/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/packages/backports/makefile.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/packages/backports/makefile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/packages/rfc3986/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/packages/rfc3986/_mixin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/packages/rfc3986/abnf_regexp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/packages/rfc3986/api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/packages/rfc3986/builder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/packages/rfc3986/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/packages/rfc3986/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/packages/rfc3986/iri.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/packages/rfc3986/misc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/packages/rfc3986/normalizers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/packages/rfc3986/parseresult.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/packages/rfc3986/uri.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/packages/rfc3986/validators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/packages/six.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/packages/six.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/packages/ssl_match_hostname/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/packages/ssl_match_hostname/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/packages/ssl_match_hostname/_implementation.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/packages/ssl_match_hostname/_implementation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/poolmanager.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/poolmanager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/request.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/request.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/response.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/response.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/util/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/util/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/util/connection.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/util/connection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/util/request.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/util/request.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/util/response.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/util/response.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/util/retry.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/util/retry.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/util/ssl_.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/util/ssl_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/util/timeout.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/util/timeout.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/util/url.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/util/url.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/util/wait.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Lib/site-packages/pip/_vendor/urllib3/util/wait.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Scripts/pip.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Scripts/pip.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Scripts/pip3.8.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Scripts/pip3.8.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/Scripts/pip3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/Scripts/pip3.exe" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fR3tHuH5kSN55ySd5Qn3wwt6lZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../venv/Scripts/python.exe" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\development\Python\Python3Repos\Verycloud\test_case" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test_address.TestAddress.test_create_user">
+    <configuration name="commom" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Verycloud" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/commom.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_address.TestAddress.test_create_user" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Verycloud" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_address.TestAddress.test_create_user&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_address.TestAddress.test_get_user" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Verycloud" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_address.TestAddress.test_get_user&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_tag.TestTag" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Verycloud" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_tag.TestTag&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_tag.TestTag.test_tags_list" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Verycloud" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_tag.TestTag.test_tags_list&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_address.TestAddress.test_create_user" />
+        <item itemvalue="Python tests.pytest for test_address.TestAddress.test_get_user" />
+        <item itemvalue="Python tests.pytest for test_tag.TestTag" />
+        <item itemvalue="Python tests.pytest for test_tag.TestTag.test_tags_list" />
+        <item itemvalue="Python.commom" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a952f911-ecec-4667-994a-4dd2880310a2" name="Default Changelist" comment="" />
+      <created>1596167290999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596167290999</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:D:/development/Python/Python3Repos/Verycloud" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="495" y="110" key="FileChooserDialogImpl" timestamp="1596169212662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="495" y="110" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1596169212662" />
+    <state width="1511" height="324" key="GridCell.Tab.0.bottom" timestamp="1596189477668">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1511" height="324" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1596189477668" />
+    <state width="1511" height="324" key="GridCell.Tab.0.center" timestamp="1596189477668">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1511" height="324" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1596189477668" />
+    <state width="1511" height="324" key="GridCell.Tab.0.left" timestamp="1596189477668">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1511" height="324" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1596189477668" />
+    <state width="1511" height="324" key="GridCell.Tab.0.right" timestamp="1596189477668">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1511" height="324" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1596189477668" />
+    <state x="175" y="0" key="SettingsEditor" timestamp="1596169217579">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="175" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1596169217579" />
+    <state x="612" y="312" key="VCS.ChangelistChooser" timestamp="1596186761390">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="612" y="312" key="VCS.ChangelistChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1596186761390" />
+    <state x="261" y="82" key="Vcs.Push.Dialog.v2" timestamp="1596185795085">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="261" y="82" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1596185795085" />
+    <state x="553" y="307" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596167415171">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="553" y="307" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1596167415171" />
+    <state x="551" y="248" key="git4idea.rebase.GitRebaseDialog" timestamp="1596185932533">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="551" y="248" key="git4idea.rebase.GitRebaseDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1596185932533" />
+    <state x="518" y="293" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1596186720198">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="518" y="293" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1596186720198" />
+    <state x="514" y="159" key="git4idea.ui.GitUnstashDialog" timestamp="1596185888640">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="514" y="159" key="git4idea.ui.GitUnstashDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1596185888640" />
+  </component>
+</project>

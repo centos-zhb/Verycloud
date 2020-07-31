@@ -1,10 +1,9 @@
 import json
 import requests
 
-from utils.common import  Tag
+from utils.tag_common import  Tag
 
-
-class TestWework:
+class TestTag:
     def setup_class(self):
         #所有用例执行之前只执行一次
         self.tag=Tag()

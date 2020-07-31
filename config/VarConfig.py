@@ -16,9 +16,14 @@ class ReadConfig:
         value = self.cf.get("TOKEN",param)
         return value
 
+    def get_address_token(self,param):
+        value = self.cf.get("Address",param)
+        return value
+
     def get_host(self,param):
         value = self.cf.get("HOST",param)
         return value
+
 
 # if __name__ == '__main__':
 #     token1 = ReadConfig().get_host('tokenhost')

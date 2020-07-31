@@ -2,6 +2,7 @@ import json
 
 import requests
 from config.VarConfig import ReadConfig
+from utils.commom import Common
 
 class Tag:
     def get_token(self):
